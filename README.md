@@ -37,8 +37,7 @@ This project provides a user-friendly interface for managing different school ac
 
 ```text
 School-Management-System/
-│
-├── images/
+├── screenshots/
 ├── index.html
 ├── login.html
 ├── admin-dashboard.html
