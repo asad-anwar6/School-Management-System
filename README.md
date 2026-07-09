@@ -1,32 +1,32 @@
 ## 📸 Project Screenshots
 
-### Home Page
+### Home-page
 
-![Home Page](screenshots/home-page.png)
+![Student-page](screenshots/Home-page.PNG)
 
 ---
 
 ### Login Page
 
-![Login Page](screenshots/login-page.png)
+![Login Page](screenshots/login.png)
 
 ---
 
 ### Admin Dashboard
 
-![Admin Dashboard](screenshots/admin-dashboard.png)
+![Admin page](screenshots/Admin-page.PNG)
 
 ---
 
 ### Student Dashboard
 
-![Student Dashboard](screenshots/student-dashboard.png)
+![Student page](screenshots/Student-page.PNG)
 
 ---
 
 ### Teacher Dashboard
 
-![Teacher Dashboard](screenshots/teacher-dashboard.png)
+![Teacher page](screenshots/teacher-page.png)
 
 
 # 🎓 School Management System
