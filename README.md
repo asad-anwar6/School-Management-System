@@ -8,7 +8,7 @@
 
 ### Login Page
 
-![Login Page](screenshots/login.png)
+![Login Page](screenshots/login.PNG)
 
 ---
 
@@ -26,7 +26,7 @@
 
 ### Teacher Dashboard
 
-![Teacher page](screenshots/teacher-page.png)
+![Teacher page](screenshots/teacher-page.PNG)
 
 
 # 🎓 School Management System
