@@ -1,3 +1,34 @@
+## 📸 Project Screenshots
+
+### Home Page
+
+![Home Page](screenshots/home-page.png)
+
+---
+
+### Login Page
+
+![Login Page](screenshots/login-page.png)
+
+---
+
+### Admin Dashboard
+
+![Admin Dashboard](screenshots/admin-dashboard.png)
+
+---
+
+### Student Dashboard
+
+![Student Dashboard](screenshots/student-dashboard.png)
+
+---
+
+### Teacher Dashboard
+
+![Teacher Dashboard](screenshots/teacher-dashboard.png)
+
+
 # 🎓 School Management System
 
 A responsive multi-page School Management System interface developed as an academic project using HTML, CSS, Bootstrap, and JavaScript.
