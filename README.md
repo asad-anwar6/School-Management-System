@@ -1,34 +1,3 @@
-## 📸 Project Screenshots
-
-### Home-page
-
-![Student-page](screenshots/Home-page.PNG)
-
----
-
-### Login Page
-
-![Login Page](screenshots/Login.PNG)
-
----
-
-### Admin Dashboard
-
-![Admin page](screenshots/Admin-page.PNG)
-
----
-
-### Student Dashboard
-
-![Student page](screenshots/Student-page.PNG)
-
----
-
-### Teacher Dashboard
-
-![Teacher page](screenshots/Teacher-page.PNG)
-
-
 # 🎓 School Management System
 
 A responsive **School Management System Frontend** developed as an academic team project using **HTML, CSS, Bootstrap 5, and JavaScript**.
